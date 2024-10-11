@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+F:\Hardware Projects\STM32_PCB_DESIGN\Project Outputs for STM32_PCB_Design\Pick Place for STM32_PCB_Design.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/10/24
+Time:       19:34
+Revision:   c5257b21b0b8d50860cf029fc9927b5fbd73c1c0
+Variant:    No variations
+Units used: mil
+
+Designator          Comment       Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                  
+X1                  24MHz         TopLayer XTAL_3225        3440.945      2922.244      0        "Crystal SMD 24MHz 10PPM 7pF 3225"                                                                                                           
+"Voltage Reglature" AMS1117-3.3   TopLayer FP-AMS1117-IPC_C 4122.441      2606.496      270      "LDO Voltage Regulators 1A, 3.3V"                                                                                                            
+USB                 473460001     TopLayer FP-473460001-MFG 4442.126      3161.417      90       "CONN RCPT USB2.0 MICRO B SMD R/A"                                                                                                           
+MCU                 STM32F411CEU6 TopLayer STM-UFQFPN48_L   3789.370      3110.236      0        "ARM Cortex-M4 32-bit MCU+FPU, 512 KB Flash, 128 KB RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray"                                       
+SWD                 TC2030-NL     TopLayer TC2030-NL-FP     4104.331      3469.882      180      "Tag-Connect No-Solder SWD Debug Connector (No Legs) DO NOT PLACE"                                                                           
+R7                  2K2           TopLayer RES_0402         3748.032      3415.354      180      "Resistor SMD 0402"                                                                                                                          
+R6                  2K2           TopLayer RES_0402         3818.898      3415.354      0        "Resistor SMD 0402"                                                                                                                          
+R5                  1K            TopLayer RES_0402         4019.685      2952.756      0        "Resistor SMD 0402"                                                                                                                          
+R4                  1K            TopLayer RES_0402         4429.134      2706.693      270      "Resistor SMD 0402"                                                                                                                          
+R3                  0R            TopLayer RES_0402         3514.764      3066.929      0        "Resistor SMD 0402"                                                                                                                          
+R2                  10K           TopLayer RES_0402         4153.543      3592.520      0        "Resistor SMD 0402"                                                                                                                          
+R1                  10K           TopLayer RES_0402         3750.000      3346.457      270      "Resistor SMD 0402"                                                                                                                          
+MPU-6050            MPU-6050      TopLayer IS-QFN-24_V      3503.937      3454.724      270      "3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel" 
+JTS                 SM06B-GHS-TB  TopLayer SM06B-GHS-TB     3661.417      2500.000      0        "Header Connector 6 Position 1.25MM Pitch SMD Horizontal JST GH"                                                                             
+FB1                 120R          TopLayer FB_0603          4254.921      3088.583      180      "Ferrite Bead SMD 0603"                                                                                                                      
+D2                  RED           TopLayer LED_0402_RED     4019.685      3021.653      0        "LED 0402 RED SMD"                                                                                                                           
+D1                  GREEN         TopLayer LED_0402_GREEN   4429.134      2618.110      90       "LED 0402 GREEN SMD"                                                                                                                         
+C18                 100n          TopLayer CAP_0402         3366.142      3494.094      90       "Capacitor SMD 0402"                                                                                                                         
+C17                 22uf          TopLayer CAP_0805         4320.866      2663.110      270      "Capacitor SMD 0805"                                                                                                                         
+C16                 22uf          TopLayer CAP_0805         4128.228      2854.331      180      "Capacitor SMD 0805"                                                                                                                         
+C15                 2.2u          TopLayer CAP_0603         4227.362      3015.748      90       "Capacitor SMD 0603"                                                                                                                         
+C14                 2.2u          TopLayer CAP_0603         4290.354      3017.717      90       "Capacitor SMD 0603"                                                                                                                         
+C13                 2.2u          TopLayer CAP_0603         3645.669      3417.323      90       "Capacitor SMD 0603"                                                                                                                         
+C12                 100n          TopLayer CAP_0402         3454.724      3316.929      180      "Capacitor SMD 0402"                                                                                                                         
+C11                 100n          TopLayer CAP_0402         3366.142      3415.354      90       "Capacitor SMD 0402"                                                                                                                         
+C10                 10P           TopLayer CAP_0402         3426.181      3019.685      0        "Capacitor SMD 0402"                                                                                                                         
+C9                  10P           TopLayer CAP_0402         3510.827      3017.716      180      "Capacitor SMD 0402"                                                                                                                         
+C8                  100n          TopLayer CAP_0402         4078.740      3592.520      0        "Capacitor SMD 0402"                                                                                                                         
+C7                  2.2u          TopLayer CAP_0603         3818.898      2903.543      0        "Capacitor SMD 0603"                                                                                                                         
+C6                  2.2u          TopLayer CAP_0603         3494.095      3208.661      90       "Capacitor SMD 0603"                                                                                                                         
+C5                  100n          TopLayer CAP_0402         3592.520      3198.819      90       "Capacitor SMD 0402"                                                                                                                         
+C4                  100n          TopLayer CAP_0402         3594.488      3015.748      270      "Capacitor SMD 0402"                                                                                                                         
+C3                  100n          TopLayer CAP_0402         3915.354      2903.543      0        "Capacitor SMD 0402"                                                                                                                         
+C2                  100n          TopLayer CAP_0402         3986.220      3228.346      90       "Capacitor SMD 0402"                                                                                                                         
+C1                  100n          TopLayer CAP_0402         3618.110      3295.276      180      "Capacitor SMD 0402"                                                                                                                         

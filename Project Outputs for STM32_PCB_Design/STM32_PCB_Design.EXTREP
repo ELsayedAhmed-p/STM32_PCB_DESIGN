@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: STM32_PCB_Design.GBR   10/11/2024  7:30:57 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                L1 (Signal)                             
+.gbr                L2 (GND)                                
+.gbr                L3 (GND)                                
+.gbr                L4 (Signal)                             
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Mechanical 1                            
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Assembly                            
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Top Component Center                    
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
